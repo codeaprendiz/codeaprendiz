@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit </h1>
 <h3 align="center">Senior DevOps Engineer </h3>
-</br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
