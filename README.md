@@ -1,6 +1,6 @@
-# Hi 👋, I'm Ankit
-
-## Senior DevOps Engineer
+<h1 align="center">Hi 👋, I'm Ankit </h1>
+<h3 align="center">Senior DevOps Engineer </h3>
+</br>
 
 - 🔭 I’m working at Banque Saudi Fransi
 - 🌱 I’m currently learning full stack development
