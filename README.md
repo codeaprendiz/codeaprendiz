@@ -2,7 +2,7 @@
 <h4 align="center">Senior DevOps Engineer </h3>
 
 
-<h6 align="center"> 🔭 I’m working at Banque Saudi Fransi 🌱 I’m currently learning full stack development 💬 Ask me about devops and related tech. ⭐ I want to add 200 hours worth of full-stack development skills by the end of the year staying productive. ⚡ Fun fact: I am pretty good in sports like basketball, football, table-tennis and badminton. </h6>
+<h6 align="center"> 🔭 I’m working at Banque Saudi Fransi 🌱 I’m currently learning full stack development 💬 Ask me about devops and related tech. ⭐ I want to add 200 hours worth of full-stack development skills to my skillset by the end of the year, staying productive. ⚡ Fun fact: I am pretty good in sports like basketball, football, table-tennis and badminton. </h6>
 
 <h4 align="center">Connect with me:</h3>
 <p align="center">
