@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ankit </h1>
-<h3 align="center">Senior DevOps Engineer </h3>
-</br>
+# Hi 👋, I'm Ankit
 
-[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeaprendiz&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+## Senior DevOps Engineer
 
 - 🔭 I’m working at Banque Saudi Fransi
 - 🌱 I’m currently learning full stack development
